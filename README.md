@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @Caala21, CLIFF KIRK 
-- 👀 I’m interested in advancing my portfolio.
-- 🌱 I’m currently learning Python, HTML,CSS,JAVASCRIPT.
-- 💞️ I’m looking to collaborate on Front End development.
+- 👋 Hi, I’m @Caala21, CLIFF KIRK MUTUGI NJOGU
+- 👀 I am looking for opportunities that relate to DevOps Engineering and Front End Development.
+- I can be able to create containers using Docker. Pipelines using Jenkins.
+- In addition, I can use Google Cloud Platform, Apache, Nginx, AWS.
+- I have studied HTML,CSS programming languages. 
+- 🌱 I’m currently learning Python, Java.
 - 📫 How to reach me kirkcliff06@gmail.com
 
 <!---
